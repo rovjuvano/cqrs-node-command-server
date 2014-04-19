@@ -1,0 +1,17 @@
+{
+  "name": "cqrs-command-server",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "CQRS/Rx Command Server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test/*Spec.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "rx": "^2.2.20"
+  }
+}
